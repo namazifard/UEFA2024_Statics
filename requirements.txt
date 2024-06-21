@@ -1,0 +1,8 @@
+frozendict==2.4.4
+html5lib==1.1
+lxml==5.2.2
+multitasking==0.0.11
+peewee==3.17.5
+protobuf==3.20.3
+webencodings==0.5.1
+yfinance==0.2.40
